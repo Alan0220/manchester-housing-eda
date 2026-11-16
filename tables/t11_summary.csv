@@ -1,0 +1,7 @@
+Result
+Waterfront homes: 159 (0.8% of stock)
+Waterfront median premium: 206%
+sqft_living vs price: Pearson r = 0.701
+sqft_total vs price: Pearson r = 0.086
+"built vs price: Pearson r = 0.040, Spearman rho = 0.081"
+built vs price controlling for size: partial r = -0.275

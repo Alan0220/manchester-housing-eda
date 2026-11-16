@@ -1,0 +1,16 @@
+,pandas_dtype,expected_type
+Unnamed: 0,int64,redundant row index -> drop
+id,int64,identifier -> string (not a quantity)
+price,int64,int (GBP)
+bedrooms,float64,int (count)
+bathrooms,float64,float (half-baths exist)
+sqft_living,int64,int
+sqft_total,int64,int
+floors,float64,float (1.5 floors exist)
+waterfront,int64,category / boolean (0/1)
+view,int64,ordinal category 0-4
+condition,int64,ordinal category 1-5
+grade,int64,ordinal category 1-13
+built,int64,int (year)
+renovated,int64,"int (year, 0 = never)"
+living_area,int64,int
