@@ -12,6 +12,7 @@ Exploratory data analysis for **Estate Management Plc**, focusing on:
 
 | File / folder | Description |
 |---|---|
+| `COM7024_Manchester_Housing_EDA_Report.pdf` | The final submitted report |
 | `Manchester_Housing_EDA.ipynb` | Executed Jupyter notebook with all code, outputs and charts |
 | `analysis_code.py` | The same code as a plain Python script |
 | `figures/` | The charts used in the report (PNG), exported from the notebook |
